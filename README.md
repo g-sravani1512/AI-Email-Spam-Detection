@@ -28,6 +28,7 @@ Tech Stack:
 
 Frontend:
 
+
 HTML5
 
 CSS3 (Glassmorphism, gradients, animations)
@@ -36,6 +37,7 @@ JavaScript (Vanilla JS)
 
 
 Backend:
+
 
 Python
 
@@ -102,6 +104,7 @@ Use Live Server extension in VS Code
 Spam Example:
 
 Click the link to claim benefits now
+
 Not Spam example:
 
 Be ready for a technical interview scheduled tomorrow
