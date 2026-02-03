@@ -50,17 +50,20 @@ Flask-CORS
 Project structure:
 ```text
 
-AI-Email-Spam-Detection/
+AI-Email-Spam-Detection
 │
-├── frontend/
+├── frontend
 │   ├── index.html
 │   ├── style.css
-│   └── script.js
+│   ├── script.js
+│   ├── spamService.js
+│   └── uiHelpers.js
 │
-├── backend/
+├── backend
 │   └── app.py
 │
-├── README.md
+└── README.md
+
 ```
 
 ---
