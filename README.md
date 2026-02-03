@@ -3,6 +3,7 @@
 A modern AI-powered email spam detection web application that classifies emails as Spam or Not Spam using a machine learning backend and a stylish JavaScript-based frontend.
 
 This project demonstrates real-world frontend–backend integration, clean UI/UX design, and practical use of AI in web applications.
+
 ---
 
 Features:
@@ -19,6 +20,7 @@ Features:
 5.Responsive and user-friendly design
 
 6.Proper error handling and validation
+
 ---
 
 Tech Stack:
@@ -40,6 +42,7 @@ Python
 Flask
 
 Flask-CORS
+
 ---
 
 Project structure:
@@ -102,6 +105,7 @@ Click the link to claim benefits now
 Not Spam example:
 
 Be ready for a technical interview scheduled tomorrow
+
 ---
 
 🎯 Learning Outcomes:
@@ -118,6 +122,7 @@ Real-world AI application flow
 UI/UX design for AI-based systems
 
 Git & project structuring best practices
+
 ---
     
 📌 Use Case:
@@ -130,6 +135,7 @@ AI-powered content filtering
 Frontend–backend integration demos
 
 Resume & interview showcase project
+
 ---
 
 🧠 Future Enhancements:
@@ -144,6 +150,7 @@ Deploy backend and frontend online
 Support file/email upload
 
 Improve accessibility and animations
+
 ---
 
 👩‍💻 Author
@@ -154,6 +161,7 @@ GOPU SRAVANI
 Aspiring Software Developer
 
 Passionate about JavaScript, AI integration, and building real-world web applications.
+
 ---
 
 ⭐ If you like this project
