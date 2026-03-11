@@ -113,6 +113,27 @@ Not Spam example:
 Be ready for a technical interview scheduled tomorrow
 
 ---
+## 📧 Project Demo
+
+<p align="center">
+  <b>Demo</b>
+</p>
+
+<p align="center">
+  <img src="images/image1.png" alt="Demo" width="800">
+</p>
+
+<br>
+
+<p align="center">
+  <b>Demo</b>
+</p>
+
+<p align="center">
+  <img src="images/image2.png" alt="Demo" width="800">
+</p>
+
+---
 
 🎯 Learning Outcomes:
 
